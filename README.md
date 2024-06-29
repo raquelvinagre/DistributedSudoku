@@ -2,5 +2,9 @@
 # cd_sudoku
 Projecto CD 2023/24
 
+# Members
+Henrique Oliveira 113585
+Raquel Vinagre 113736
+
 # Notes:
 Some Sudoku examples take about 30 seconds to be solved, please be patient :)
